@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "expo": {
+    "entryPoint": "./mobile/index.ts"
+  }
+}
+
